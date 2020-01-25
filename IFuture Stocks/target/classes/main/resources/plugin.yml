@@ -1,0 +1,13 @@
+name: IFutureStocks
+version: ${project.version}
+api: spigot
+api-version: 1.12.2
+main: com.dragons0u1.ifuture.IFutureStocks
+depend: [Vault]
+authors: [IFuture Studios]
+description: Creates a stock market in Minecraft using VaultAPI
+
+commands:
+  stocks:
+    description: Main command for all stock market functions.
+    usage: /stocks <check:buy:sell:checkprice> <company> <amount>

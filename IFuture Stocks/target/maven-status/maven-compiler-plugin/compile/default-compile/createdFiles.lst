@@ -1,0 +1,7 @@
+com\dragons0u1\ifuture\commands\StockMarketCommands.class
+com\dragons0u1\ifuture\helpers\VaultHelper.class
+com\dragons0u1\ifuture\IFutureStocks.class
+com\dragons0u1\ifuture\tasks\CheckActiveHours.class
+com\dragons0u1\ifuture\managers\StockMarket.class
+com\dragons0u1\ifuture\tasks\StocksUpdate.class
+com\dragons0u1\ifuture\managers\PlayerStocks.class

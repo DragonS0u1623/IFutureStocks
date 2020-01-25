@@ -1,0 +1,5 @@
+on/off: on
+timezone: UTC-5
+buy/sell:
+  start: 8
+  end: 16
